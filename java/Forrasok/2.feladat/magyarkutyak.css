@@ -1,0 +1,33 @@
+html {
+	background-color: #fff;
+}
+
+body {
+	border-left     : 2px solid #a52a2a;
+	border-right    : 2px solid #a52a2a;
+	padding         : 0 20px;
+}
+
+h1 {
+	margin       	: 0;
+	padding      	: 0 0 10px;
+}
+
+h2 {
+	padding         : 10px;
+}
+
+
+.hasab {
+	margin			: 0 2.5%;
+}
+
+footer {
+	clear     		: both;
+	padding   		: 10px 0;
+	border-top		: 2px solid #a52a2a;
+}
+
+img {
+	margin			: 10px;
+}
